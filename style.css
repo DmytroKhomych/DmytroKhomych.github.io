@@ -1,0 +1,58 @@
+.internal-container {
+    margin-top: 220px;
+margin-bottom: 324px;
+    
+}
+.hujak {
+    font-size: 13px;
+    color: #fff;
+}
+.hi {
+    font-size: 44px;
+    color: #fff;
+}
+.total {
+    font-size: 13px;
+    color: #fff;
+    background-color: #000;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 11px;
+    padding-right: 11px;
+    width: max-content;
+    border-radius: 15px;
+    box-shadow: 4px 5px 8px 0px #f6f6f6;
+  
+ 
+
+}
+.n1 {
+    margin-bottom:10px;
+    font-family: 'Source Sans Pro', sans-serif;
+    
+}
+.n2 {
+    margin-bottom: 20px;
+    font-family: 'Slabo 27px', serif;
+    text-transform:uppercase;
+}
+.n3 {
+    margin-bottom:50px;
+    font-family: 'Mukta', sans-serif;
+}
+
+.help {
+    font-size: 19px;
+    font-family: 'Quicksand', sans-serif;
+    color: #fff;
+}
+
+.section1 {
+    background-image: url(images/kangchenjunga.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+
+
+}
